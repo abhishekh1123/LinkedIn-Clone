@@ -31,11 +31,11 @@ CLOUDINARY_CLOUD_NAME=<your_cloudinary_cloud_name>
 CLIENT_URL=http://localhost:5173
 ```
 
-##Run Locally
+## Run Locally
 ```shell
 npm install
 npm run build
 npm run start
 ```
-##License
+## License <br>
 MIT
